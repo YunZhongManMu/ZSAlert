@@ -23,7 +23,8 @@ Pod::Spec.new do |s|
   s.author             = { "周顺" => "yunzhong1075@126.com" }
   s.ios.deployment_target = "7.0"
   s.source       = { :git => "https://github.com/YunZhongManMu/ZSAlert.git", :tag => "#{s.version}" }
-  s.source_files  = "ZSAlert/**/*"
+  s.source_files  = "ZSAlerTool/*.{h,m}"
+  # //"ZSAlert/ZSAlert/*"
   s.exclude_files = "Classes/Exclude"
 
   # s.framework  = "SomeFramework"
