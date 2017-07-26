@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZSAlert"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "这是一个描述,测试描述的长度"
   s.description  = <<-DESC
                       这是一个描述,测试描述的长度,这是一个描述,测试描述的长度
